@@ -1,4 +1,3 @@
-//importam http din node
 import http from "http";
 import axios from "axios";
 const hostname = "0.0.0.0";
